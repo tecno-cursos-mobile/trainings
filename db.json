@@ -1,12 +1,15 @@
 {
     "trainings": [
         {
+            "id": 1,
             "name": "Treinamento 1"
         },
         {
+            "id": 2,
             "name": "Treinamento 2"
         },
         {
+            "id": 3,
             "name": "Treinamento 3"
         }
     ]
