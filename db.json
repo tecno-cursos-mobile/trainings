@@ -1,0 +1,13 @@
+{
+    "trainings": [
+        {
+            "name": "Treinamento 1"
+        },
+        {
+            "name": "Treinamento 2"
+        },
+        {
+            "name": "Treinamento 3"
+        }
+    ]
+}
