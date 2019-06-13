@@ -1,16 +1,58 @@
 {
-    "trainings": [
+  "trainings": [
+    {
+      "id": 1,
+      "name": "Treinamento 1",
+      "periods": [
         {
-            "id": 1,
-            "name": "Treinamento 1"
+          "date": "20.07.2019",
+          "time": "Manhã"
         },
         {
-            "id": 2,
-            "name": "Treinamento 2"
+          "date": "20.07.2019",
+          "time": "Tarde"
         },
         {
-            "id": 3,
-            "name": "Treinamento 3"
+          "date": "20.07.2019",
+          "time": "Noite"
         }
-    ]
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Treinamento 2",
+      "periods": [
+        {
+          "date": "21.07.2019",
+          "time": "Manhã"
+        },
+        {
+          "date": "21.07.2019",
+          "time": "Tarde"
+        },
+        {
+          "date": "21.07.2019",
+          "time": "Noite"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Treinamento 3",
+      "periods": [
+        {
+          "date": "21.07.2019",
+          "time": "Manhã"
+        },
+        {
+          "date": "21.07.2019",
+          "time": "Tarde"
+        },
+        {
+          "date": "21.07.2019",
+          "time": "Noite"
+        }
+      ]
+    }
+  ]
 }
