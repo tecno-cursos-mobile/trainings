@@ -2,55 +2,65 @@
   "trainings": [
     {
       "id": 1,
-      "name": "Treinamento 1",
+      "name": "Segurança do trabalho",
       "periods": [
         {
-          "date": "20.07.2019",
-          "time": "Manhã"
+          "date": "20/07/2019",
+          "startTime": "08:00",
+          "endTime": "11:30"
         },
         {
-          "date": "20.07.2019",
-          "time": "Tarde"
-        },
-        {
-          "date": "20.07.2019",
-          "time": "Noite"
+          "date": "20/07/2019",
+          "startTime": "14:00",
+          "endTime": "17:30"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Treinamento 2",
+      "name": "Trabalho em altura",
       "periods": [
         {
-          "date": "21.07.2019",
-          "time": "Manhã"
-        },
-        {
-          "date": "21.07.2019",
-          "time": "Tarde"
-        },
-        {
-          "date": "21.07.2019",
-          "time": "Noite"
+          "date": "21/07/2019",
+          "startTime": "09:00",
+          "endTime": "12:30"
         }
       ]
     },
     {
       "id": 3,
-      "name": "Treinamento 3",
+      "name": "Direção defensiva",
       "periods": [
         {
-          "date": "21.07.2019",
-          "time": "Manhã"
+          "date": "22/07/2019",
+          "startTime": "07:00",
+          "endTime": "11:00"
         },
         {
-          "date": "21.07.2019",
-          "time": "Tarde"
+          "date": "22/07/2019",
+          "startTime": "13:00",
+          "endTime": "17:00"
         },
         {
-          "date": "21.07.2019",
-          "time": "Noite"
+          "date": "22/07/2019",
+          "startTime": "19:00",
+          "endTime": "21:30"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Manutenção preventiva e preditiva",
+      "periods": [
+        {
+          "date": "23/07/2019",
+          "startTime": "07:30",
+          "endTime": "11:30"
+        },
+        {
+          "date": "23/07/2019",
+          "startTime": "14:00",
+          "endTime": "17:00"
         }
       ]
     }
