@@ -5,12 +5,12 @@
       "name": "Segurança do trabalho",
       "periods": [
         {
-          "date": "20/07/2019",
+          "date": "21/06/2019",
           "startTime": "08:00",
           "endTime": "11:30"
         },
         {
-          "date": "20/07/2019",
+          "date": "21/06/2019",
           "startTime": "14:00",
           "endTime": "17:30"
         }
@@ -21,7 +21,7 @@
       "name": "Trabalho em altura",
       "periods": [
         {
-          "date": "21/07/2019",
+          "date": "20/06/2019",
           "startTime": "09:00",
           "endTime": "12:30"
         }
@@ -32,17 +32,17 @@
       "name": "Direção defensiva",
       "periods": [
         {
-          "date": "22/07/2019",
+          "date": "22/06/2019",
           "startTime": "07:00",
           "endTime": "11:00"
         },
         {
-          "date": "22/07/2019",
+          "date": "22/06/2019",
           "startTime": "13:00",
           "endTime": "17:00"
         },
         {
-          "date": "22/07/2019",
+          "date": "22/06/2019",
           "startTime": "19:00",
           "endTime": "21:30"
         }
